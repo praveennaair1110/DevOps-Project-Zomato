@@ -1,2 +1,2 @@
-# 🚀 **DevOps Project: ZOMATO Clone App Deployment**
+# 🚀 **DevOps Project: ZOMATO App**
 
