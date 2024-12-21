@@ -1,2 +1,2 @@
-# 🚀 **DevOps Project: ZOMATO App**
+#  **DevOps Project: ZOMATO App**
 
